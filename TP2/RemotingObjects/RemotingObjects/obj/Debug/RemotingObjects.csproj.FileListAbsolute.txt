@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.dll
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.pdb
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.dll
+\\Mac\Home\Documents\Visual Studio 2019\Projets\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.pdb

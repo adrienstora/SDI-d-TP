@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\bin\Debug\RemotingObjects.dll
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\bin\Debug\RemotingObjects.pdb
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CopyComplete
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+\\Mac\Home\Documents\Visual Studio 2019\Projets\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb
